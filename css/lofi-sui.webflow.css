@@ -5119,7 +5119,7 @@ blockquote {
   }
 
   .section.hero-section.tokenomics {
-    background-image: url('../images/tokenomics_bg_new2025_v2_Mobile.jpg');
+    background-image: url('../images/glow.png');
     background-position: 50% 100%;
     background-size: cover;
     background-attachment: scroll;
@@ -5128,7 +5128,7 @@ blockquote {
   }
 
   .section.hero-section.tokenomics._2 {
-    background-image: linear-gradient(#375e8500 84%, #305578), url('../images/tokenomics_bg_new2025_v2_Mobile.jpg'), linear-gradient(#0000, #0000);
+    background-image: linear-gradient(#375e8500 84%, #305578), url('../images/glow.png'), linear-gradient(#0000, #0000);
     min-height: auto;
     padding-bottom: 0;
   }
@@ -5173,7 +5173,7 @@ blockquote {
   }
 
   .section.sectionmain.tokenomics {
-    background-image: url('../images/tokenomics_bg_new2025_v2_Mobile.jpg');
+    background-image: url('../images/glow.png');
     background-position: 50% 100%;
     background-size: cover;
     background-attachment: scroll;
@@ -5182,7 +5182,7 @@ blockquote {
   }
 
   .section.sectionmain.tokenomics._2 {
-    background-image: linear-gradient(#375e8500 84%, #305578), url('../images/tokenomics_bg_new2025_v2_Mobile.jpg'), linear-gradient(#0000, #0000);
+    background-image: linear-gradient(#375e8500 84%, #305578), url('../images/glow.png'), linear-gradient(#0000, #0000);
     min-height: auto;
     padding-bottom: 0;
   }
